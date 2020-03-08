@@ -1,0 +1,20 @@
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\obj\Debug\bmr.csprojAssemblyReference.cache
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\obj\Debug\bmr.Form1.resources
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\obj\Debug\bmr.Properties.Resources.resources
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\obj\Debug\bmr.csproj.GenerateResource.cache
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\obj\Debug\bmr.csproj.CoreCompileInputs.cache
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\bin\Debug\bmr.exe.config
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\bin\Debug\bmr.exe
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\bin\Debug\bmr.pdb
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\obj\Debug\bmr.exe
+G:\STUDIA\Programowanie wizualne\Zad 2 BMR\22\bmr\bmr\obj\Debug\bmr.pdb
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\bin\Debug\bmr.exe.config
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\bin\Debug\bmr.exe
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\bin\Debug\bmr.pdb
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.csprojAssemblyReference.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.Form1.resources
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.Properties.Resources.resources
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.csproj.GenerateResource.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.csproj.CoreCompileInputs.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.exe
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.pdb

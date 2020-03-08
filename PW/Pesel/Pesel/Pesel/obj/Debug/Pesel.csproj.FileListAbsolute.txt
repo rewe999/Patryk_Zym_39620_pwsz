@@ -1,0 +1,10 @@
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\bin\Debug\Pesel.exe.config
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\bin\Debug\Pesel.exe
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\bin\Debug\Pesel.pdb
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\obj\Debug\Pesel.csprojAssemblyReference.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\obj\Debug\Pesel.Form1.resources
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\obj\Debug\Pesel.Properties.Resources.resources
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\obj\Debug\Pesel.csproj.GenerateResource.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\obj\Debug\Pesel.csproj.CoreCompileInputs.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\obj\Debug\Pesel.exe
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\Pesel\Pesel\Pesel\obj\Debug\Pesel.pdb
