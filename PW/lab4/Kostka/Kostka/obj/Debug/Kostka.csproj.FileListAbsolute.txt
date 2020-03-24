@@ -1,0 +1,10 @@
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\bin\Debug\Kostka.exe.config
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\bin\Debug\Kostka.exe
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\bin\Debug\Kostka.pdb
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\obj\Debug\Kostka.Form1.resources
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\obj\Debug\Kostka.Properties.Resources.resources
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\obj\Debug\Kostka.csproj.GenerateResource.cache
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\obj\Debug\Kostka.csproj.CoreCompileInputs.cache
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\obj\Debug\Kostka.exe
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\obj\Debug\Kostka.pdb
+G:\STUDIA\Programowanie wizualne\LAB4\Kostka\Kostka\obj\Debug\Kostka.csprojAssemblyReference.cache

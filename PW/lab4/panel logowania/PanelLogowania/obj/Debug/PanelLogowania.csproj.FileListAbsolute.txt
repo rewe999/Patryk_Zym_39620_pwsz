@@ -1,0 +1,11 @@
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\bin\Debug\PanelLogowania.exe.config
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\bin\Debug\PanelLogowania.exe
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\bin\Debug\PanelLogowania.pdb
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\obj\Debug\PanelLogowania.csprojAssemblyReference.cache
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\obj\Debug\PanelLogowania.Form1.resources
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\obj\Debug\PanelLogowania.Properties.Resources.resources
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\obj\Debug\PanelLogowania.csproj.GenerateResource.cache
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\obj\Debug\PanelLogowania.csproj.CoreCompileInputs.cache
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\obj\Debug\PanelLogowania.exe
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\obj\Debug\PanelLogowania.pdb
+G:\STUDIA\Programowanie wizualne\LAB4\panel logowania\PanelLogowania\obj\Debug\PanelLogowania.Form2.resources
