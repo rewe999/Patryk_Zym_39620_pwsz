@@ -8,3 +8,6 @@ C:\Users\Zymek\Desktop\kols\pesel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wi
 C:\Users\Zymek\Desktop\kols\pesel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\Zymek\Desktop\kols\pesel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
 C:\Users\Zymek\Desktop\kols\pesel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PESEL1.Form1.resources
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\pesel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\pesel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\pesel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

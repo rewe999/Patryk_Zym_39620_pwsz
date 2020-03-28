@@ -1,0 +1,7 @@
+C:\Users\Zymek\source\repos\LIczby\obj\Debug\LIczby.csprojAssemblyReference.cache
+C:\Users\Zymek\source\repos\LIczby\obj\Debug\LIczby.csproj.CoreCompileInputs.cache
+C:\Users\Zymek\source\repos\LIczby\bin\Debug\LIczby.exe.config
+C:\Users\Zymek\source\repos\LIczby\bin\Debug\LIczby.exe
+C:\Users\Zymek\source\repos\LIczby\bin\Debug\LIczby.pdb
+C:\Users\Zymek\source\repos\LIczby\obj\Debug\LIczby.exe
+C:\Users\Zymek\source\repos\LIczby\obj\Debug\LIczby.pdb

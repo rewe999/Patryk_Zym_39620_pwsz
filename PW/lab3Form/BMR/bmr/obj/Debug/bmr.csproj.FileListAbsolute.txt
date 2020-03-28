@@ -18,3 +18,13 @@ C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.c
 C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.csproj.CoreCompileInputs.cache
 C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.exe
 C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\BMR\bmr\obj\Debug\bmr.pdb
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\bin\Debug\bmr.exe.config
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\bin\Debug\bmr.exe
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\bin\Debug\bmr.pdb
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\obj\Debug\bmr.csprojAssemblyReference.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\obj\Debug\bmr.Form1.resources
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\obj\Debug\bmr.Properties.Resources.resources
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\obj\Debug\bmr.csproj.GenerateResource.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\obj\Debug\bmr.csproj.CoreCompileInputs.cache
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\obj\Debug\bmr.exe
+C:\Users\Zymek\Documents\GitHub\Patryk_Zym_39620_pwsz\PW\lab3Form\BMR\bmr\obj\Debug\bmr.pdb
