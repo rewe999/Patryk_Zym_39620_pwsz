@@ -1,0 +1,27 @@
+C:\Users\Miko\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+C:\Users\Miko\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+C:\Users\Miko\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csprojAssemblyReference.cache
+C:\Users\Miko\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Form1.resources
+C:\Users\Miko\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Properties.Resources.resources
+C:\Users\Miko\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.GenerateResource.cache
+C:\Users\Miko\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.CoreCompileInputs.cache
+C:\Users\Miko\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+C:\Users\Miko\Desktop\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb
+F:\STUDIA\Programowanie wizualne\lab6\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+F:\STUDIA\Programowanie wizualne\lab6\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+F:\STUDIA\Programowanie wizualne\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csprojAssemblyReference.cache
+F:\STUDIA\Programowanie wizualne\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Form1.resources
+F:\STUDIA\Programowanie wizualne\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Properties.Resources.resources
+F:\STUDIA\Programowanie wizualne\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.GenerateResource.cache
+F:\STUDIA\Programowanie wizualne\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.CoreCompileInputs.cache
+F:\STUDIA\Programowanie wizualne\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+F:\STUDIA\Programowanie wizualne\lab6\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb
+F:\STUDIA\Programowanie wizualne\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+F:\STUDIA\Programowanie wizualne\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+F:\STUDIA\Programowanie wizualne\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csprojAssemblyReference.cache
+F:\STUDIA\Programowanie wizualne\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Form1.resources
+F:\STUDIA\Programowanie wizualne\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Properties.Resources.resources
+F:\STUDIA\Programowanie wizualne\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.GenerateResource.cache
+F:\STUDIA\Programowanie wizualne\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.CoreCompileInputs.cache
+F:\STUDIA\Programowanie wizualne\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+F:\STUDIA\Programowanie wizualne\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb
