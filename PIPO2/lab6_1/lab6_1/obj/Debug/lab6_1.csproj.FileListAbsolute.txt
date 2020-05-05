@@ -1,0 +1,14 @@
+C:\Users\Zymek\source\repos\lab6_1\lab6_1\bin\Debug\lab6_1.exe.config
+C:\Users\Zymek\source\repos\lab6_1\lab6_1\bin\Debug\lab6_1.exe
+C:\Users\Zymek\source\repos\lab6_1\lab6_1\bin\Debug\lab6_1.pdb
+C:\Users\Zymek\source\repos\lab6_1\lab6_1\obj\Debug\lab6_1.csprojAssemblyReference.cache
+C:\Users\Zymek\source\repos\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.CoreCompileInputs.cache
+C:\Users\Zymek\source\repos\lab6_1\lab6_1\obj\Debug\lab6_1.exe
+C:\Users\Zymek\source\repos\lab6_1\lab6_1\obj\Debug\lab6_1.pdb
+F:\STUDIA\PPO2\lab6_1\lab6_1\bin\Debug\lab6_1.exe.config
+F:\STUDIA\PPO2\lab6_1\lab6_1\bin\Debug\lab6_1.exe
+F:\STUDIA\PPO2\lab6_1\lab6_1\bin\Debug\lab6_1.pdb
+F:\STUDIA\PPO2\lab6_1\lab6_1\obj\Debug\lab6_1.csprojAssemblyReference.cache
+F:\STUDIA\PPO2\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.CoreCompileInputs.cache
+F:\STUDIA\PPO2\lab6_1\lab6_1\obj\Debug\lab6_1.exe
+F:\STUDIA\PPO2\lab6_1\lab6_1\obj\Debug\lab6_1.pdb
